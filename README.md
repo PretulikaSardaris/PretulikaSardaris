@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Online Pizza Delivery Website**   https://pizzeriaspontini.vercel.app/
 
-- 🌱 I’m currently learning **React TypeScript**
+- 🌱 I’m currently learning **React and TypeScript**
 
 - 🤝 I’m looking for help with **React and NextJs**
 
